@@ -91,11 +91,6 @@ File: `googleplaystore.csv`
 
 ---
 
-## 📸 Screenshots (Optional)
-
-> You can include 2–3 screenshots of the charts or notebook output here.
-
----
 
 ## 🏁 Outcome
 
